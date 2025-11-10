@@ -1,12 +1,22 @@
-# ML Progress 
+# ML Progress
+# My 90-Day Machine Learning Journey
 
-This repository tracks my 90-day journey of learning Machine Learning from scratch.  
-It includes small, practical projects, experiments, and progress logs — all focused on real-world learning.
+This repository tracks my journey learning Machine Learning from scratch through small, practical projects and daily progress logs , focused on real-world applications in healthcare and education technology.
 
-week 1: earned a kaggle certificate
-week 2: A hectic week, earned a pandas certificate along with the exams 
-       I showed up
-       I learned
-On My way to week 3 : let us see what this week brings
+Progress Timeline
 
-🩶 “Learning quietly, building loudly.”
+Week 1: Earned Kaggle Machine Learning Certificate  
+Week 2: Earned Pandas Certificate while managing exams, showed up consistently  
+Week 3: Building foundations for healthcare and education ML projects
+
+
+Current Focus
+
+- Python & Pandas mastery
+- Machine Learning fundamentals  
+- Preparing for healthcare/education projects
+- Building consistent learning habits
+
+
+
+🩶 *"Learning quietly, building loudly."*
