@@ -18,3 +18,5 @@ This week focuses on strengthning the fundamentals of machine learning  & buildi
 
 # Objective
 Build the technical confidence to explain, defend, and implement core ML concepts independently
+
+Trying to balance the academics and ml together, a little overwhelmed but I'll start again tommorow(day 1)
