@@ -19,12 +19,12 @@ Built my first healthcare AI project-Heart disease risk scanner
        - Noticed the limitations of my project 
 On my way to dive deeper into field technically and improving myself....
 
-### Week 4: (ongoing)
+### Week 4:
 This week focuses on learning the concepts with depth 
      -clearity of confusions 
       -diving deep into the foundations of ml
       -finding the answer to Why,how,what    
-       
+### week 5: focusing on foundation      
        
 
 
