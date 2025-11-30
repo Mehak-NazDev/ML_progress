@@ -24,7 +24,8 @@ This week focuses on learning the concepts with depth
      -clearity of confusions 
       -diving deep into the foundations of ml
       -finding the answer to Why,how,what    
-### week 5: focusing on foundation      
+### week 5: focusing on foundation 
+I did focused on it completed two certificates of ml(building foundation) theory heavy concepts I don't know how these professionals manage this ...maybe I'll find the path too...so let's keep going 
        
 
 
