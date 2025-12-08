@@ -12,4 +12,5 @@ sounds good
 4. learned about the one hot encoding to convert text(Yes/no) to (0/1) feature
 5. handled the outliers(extreme values)
 6. feature scaling(transfromed fatures to make them suitable for a linear model)
-7. Modeling(on going step)
+7. Modeling(Used two models : linear regression ,random forest )
+8. comparing the models, adding a new model (ongoing) 
