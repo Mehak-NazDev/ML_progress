@@ -13,4 +13,7 @@ sounds good
 5. handled the outliers(extreme values)
 6. feature scaling(transfromed fatures to make them suitable for a linear model)
 7. Modeling(Used two models : linear regression ,random forest )
-8. comparing the models, adding a new model (ongoing) 
+8. comparing the models, adding a new model
+9. Compared the model, linear regression performed the best
+10. Found many critical bugs in the notebook(a hectic and selfdoubting phase, yet I will not give up)
+11. I will try to solve bugs and then deploy the model  
