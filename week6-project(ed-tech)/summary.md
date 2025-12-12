@@ -17,3 +17,4 @@ sounds good
 9. Compared the model, linear regression performed the best
 10. Found many critical bugs in the notebook(a hectic and selfdoubting phase, yet I will not give up)
 11. I will try to solve bugs and then deploy the model  
+12. Stuck with dashboard making 
