@@ -1,42 +1,54 @@
 # ML Progress
-# My 90-Day Machine Learning Journey
+## 90-Day Machine Learning Journey
 
-This repository tracks my journey learning Machine Learning from scratch through small, practical projects and daily progress logs , focused on real-world applications in healthcare and education technology.
-
-
-
-###  Week 1
-The introduction to machine learning
-       -Earned Kaggle Machine Learning Certificate  
-
-###  Week 2 
-Earned Pandas Certificate while managing exams, showed up consistently  
-
-###  Week 3 
-Built my first healthcare AI project-Heart disease risk scanner
-       - shows learning, ethical awareness
-       - Achieved 82% accuracy but detected biasness | learned How system actually works
-       - Noticed the limitations of my project 
-On my way to dive deeper into field technically and improving myself....
-
-### Week 4:
-This week focuses on learning the concepts with depth 
-     -clearity of confusions 
-      -diving deep into the foundations of ml
-      -finding the answer to Why,how,what    
-### week 5: focusing on foundation 
-I did focused on it completed two certificates of ml(building foundation) theory heavy concepts I don't know how these professionals manage this ...maybe I'll find the path too...so let's keep going 
-       
+This repository tracks my journey learning Machine Learning from scratch through small daily progress logs.
+It captures my raw learning process...including confusion and mistakes.
 
 
-# Current Focus of learning
+### Week 1
 
-- Python & Pandas mastery
-- Machine Learning fundamentals  
-- Preparing for healthcare/education projects
-- Building consistent learning habits
-- learning about visualization (matplotlib/seaborn)
-  
+* Introduction to Machine Learning
+* Earned Kaggle Machine Learning Certificate
+
+### Week 2
+
+* Completed Pandas Certificate while managing exams
+* Maintained consistent practice
+
+### Week 3
+
+* Built first healthcare AI project: Heart Disease Risk Scanner
+
+  * Learned ethical considerations and limitations of ML systems
+  * Achieved 82% accuracy; identified bias in data
+  * Reflected on project limitations and next steps
+
+### Week 4
+
+* Focused on concept clarity and foundational understanding
+* Learned about data documentation and analysis
+
+### Week 5
+
+* Strengthened foundations with two ML certificates (theory-heavy)
+* Noted: “How do professionals manage all this?...and the learning continues
+
+### Weeks 6-7
+
+* Completed EdTech project for hands-on application
+* I also noted many questions after this....let me find the answers 
+
+## Current Focus
+
+* Python & Pandas mastery
+* Core Machine Learning fundamentals
+* Healthcare & Education project preparation
+* Consistent learning habits
+* Data visualization (Matplotlib/Seaborn)
 
 
-🩶 *"Learning quietly, building loudly."*
+
+*"Learning quietly, building loudly."* 🩶
+
+
+
