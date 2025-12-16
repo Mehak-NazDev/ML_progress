@@ -17,4 +17,20 @@ sounds good
 9. Compared the model, linear regression performed the best
 10. Found many critical bugs in the notebook(a hectic and selfdoubting phase, yet I will not give up)
 11. I will try to solve bugs and then deploy the model  
-12. Stuck with dashboard making 
+12. Stuck with dashboard making
+13. Finally successfully deployed the model and completed the project
+
+#  Notable points
+1. Wrong scaling can cause data leakage
+2. scale only the training data and for LR model ..the tree based models dont require scaling
+3. choose right question for the right problem
+4. High R2 is not always a bug
+5. Understand the data and problem fisrt
+6. find correlation so it will help you to model better
+
+# Futrure improvements 
+1. Add more features like social media influence or addiction, parental involvement
+2. Deploy it live using streamlit
+3. Make dashboard interactive because the previous one has a color mismatch problem
+
+  
