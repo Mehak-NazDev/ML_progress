@@ -36,7 +36,11 @@ It captures my raw learning process...including confusion and mistakes.
 ### Weeks 6-7
 
 * Completed EdTech project for hands-on application
-* I also noted many questions after this....let me find the answers 
+* I also noted many questions after this....let me find the answers
+
+### Week 8
+* how to select models
+* what are the right questions to ask before modeling
 
 ## Current Focus
 
